@@ -23,8 +23,3 @@ shopt -s cdspell
 # If possible, add tab completion for many more commands
 [ -f /etc/bash_completion ] && source /etc/bash_completion
 
-export CLICOLOR=1
-
-source ~/.git-prompt.sh
-export PS1="\[\033[0;32m\]\W\[\033[0;30m\]\[$MAGENTA\]\$(__git_ps1)$ "
-
