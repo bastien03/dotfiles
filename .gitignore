@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But not these files
+!.aliases
+!.bash_profile
+!.bash_prompt
+!.bashrc
+!.exports
+!.functions
+!.path
+!.vimrc
+!.gitignore
