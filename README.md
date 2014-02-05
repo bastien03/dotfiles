@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-Config files
+Config files for Mac OS X.
